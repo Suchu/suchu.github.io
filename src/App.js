@@ -9,7 +9,7 @@ import Experience from './components/experience';
 import Work from './components/work';
 import Thoughts from './components/thoughts';
 import Contacts from './components/contact';
-import { BrowserRouter, Route, Switch } from 'react-router-dom';
+// import { BrowserRouter, Route, Switch } from 'react-router-dom';
 
 function App() {
   return (
